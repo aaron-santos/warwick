@@ -7,9 +7,9 @@ Graphviz as a service aka: Webdot-alike for Node.
 
 ## Available environment variables
 
-# `DOT` The command to run. Defaults to `dot`.
+`DOT` The command to run. Defaults to `dot`.
 
-# `PORT` The port to run the service on. Defaults to `8000`.
+`PORT` The port to run the service on. Defaults to `8000`.
 
 ### Running
 
