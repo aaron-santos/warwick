@@ -1,0 +1,28 @@
+{
+  "name": "warwick",
+  "version": "0.0.0",
+  "description": "Graphviz as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaron-santos/warwick"
+  },
+  "keywords": [
+    "graphviz"
+  ],
+  "author": "Aaron Santos",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/aaron-santos/warwick/issues"
+  },
+  "dependencies": {
+      "express": "~4.4.5",
+      "underscore": "1.6.0",
+      "async": "0.9.0",
+      "logfmt": "~1.1.2"
+
+  }
+}
